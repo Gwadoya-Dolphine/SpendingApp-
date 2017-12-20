@@ -1,0 +1,2 @@
+# SpendingApp-
+how to spent
